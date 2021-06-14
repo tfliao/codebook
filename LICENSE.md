@@ -7,5 +7,5 @@ day, and you think this stuff is worth it, you can buy me a beer or coffee
 in return.                                                      
 
 Contributors:
-    Ting-Fu Liao
+* Ting-Fu Liao
 ----------------------------------------------------------------------------
